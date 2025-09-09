@@ -87,4 +87,5 @@
   line-clamp: 3;
   -webkit-box-orient: vertical;  
   overflow: hidden;
+  max-width: 380px;
 }
